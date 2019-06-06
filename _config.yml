@@ -1,12 +1,12 @@
 # Site
 name: "Njan Oru Malayali"
-title: "Njan Oru Malayali"
+title: "ഞാൻ ഒരു മലയാളി"
 description: "Njan Oru Malayali"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-57404398-3'
-disqus: 'demowebsite'
+disqus: 'sibeeshvenu'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/

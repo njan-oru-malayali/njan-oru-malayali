@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Njan Oru Malayali - About
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,34 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
+<h5>Social Media</h5>
+<p>Thank you for your support!</p>
+<p>
+<a target="_blank" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw/" class="btn btn-danger">YouTube Channel</a>
+</p> 
+<p>
+<a target="_blank" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" class="btn btn-danger">Facebook Group</a>
+</p> 
+<p>
+<a target="_blank" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" class="btn btn-danger">Facebook Page</a>
+</p> 
+<h5>Follow Me</h5>
+<p><a href="https://twitter.com/SibeeshVenu" target="_blank" rel="noopener noreferrer">Twitter</a></p>
+<p><a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a></p>
+<p><a href="https://www.youtube.com/SibeeshPassion">YouTube</a></p>
+<p><a href="https://www.facebook.com/SibeeshVenu">Facebook</a></p>
+<p><a href="https://instagram.com/sibeeshvenu" target="_blank" rel="noopener noreferrer">Instagram</a></p>
+<p><a href="https://www.quora.com/profile/Sibeesh-Venu">Quora</a></p>
+<p><a href="https://www.pinterest.com/SibeeshVenu/">Pinterest</a></p>
+<p><a href="https://about.me/SibeeshVenu">About Me</a></p>
 </div>
 </div>
 </div>
