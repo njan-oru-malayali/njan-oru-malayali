@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-57404398-3'
 disqus: 'sibeeshvenu'
-mailchimp-list: ''
+mailchimp-list: 'SibeeshPassion'
 include: ["_pages"]
 permalink: /:title/
 
