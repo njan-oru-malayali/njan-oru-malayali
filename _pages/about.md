@@ -10,7 +10,6 @@ comments: true
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 </div>
 
 <div class="col-md-4">
