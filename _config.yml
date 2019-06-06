@@ -1,35 +1,26 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Njan Oru Malayali"
+title: "Njan Oru Malayali"
+description: "Njan Oru Malayali"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
+baseurl: /Njan Oru Malayali
+google_analytics: 'UA-57404398-3'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    name: Sibeesh Venu
+    display_name: Sibeesh Venu
+    gravatar: 429e95a0b9138c685c91a24b9802af02
+    email: sibeesh.venu@gmail.com
+    web: https://sibeeshpassion.com
+    twitter: https://twitter.com/sibeeshvenu
+    description: "I am Sibeesh Venu, an engineer by profession and writer by passion. Blogger, YouTuber, Photographer. I’m neither an expert nor a guru. I have been awarded Microsoft MVP 3 times, C# Corner MVP 5 times, DZone MVB. "
 
 # Plugins
 plugins:
