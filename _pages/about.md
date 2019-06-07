@@ -9,7 +9,17 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
-
+<h5>My Websites</h5>
+<p>
+<a href="https://sibeeshpassion.com/" target="_blank" data-title="Sibeesh Passion">Sibeesh Passion</a>
+</p>
+<p>
+<a href="https://sibeeshvenu.com/" target="_blank" data-title="Sibeesh Venu">Sibeesh Venu</a>
+</p>
+<h5>My Other YouTube Channel</h5>
+<p>
+<a href="https://www.youtube.com/SibeeshPassion" target="_blank" data-title="Sibeesh Passion">Sibeesh Passion</a>
+</p>
 </div>
 
 <div class="col-md-4">
