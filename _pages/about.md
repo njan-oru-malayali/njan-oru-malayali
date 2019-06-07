@@ -20,6 +20,15 @@ comments: true
 <p>
 <a href="https://www.youtube.com/SibeeshPassion" target="_blank" data-title="Sibeesh Passion">Sibeesh Passion</a>
 </p>
+<h5>Follow Me</h5>
+<p><a href="https://twitter.com/SibeeshVenu" target="_blank" rel="noopener noreferrer">Twitter</a></p>
+<p><a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a></p>
+<p><a href="https://www.youtube.com/SibeeshPassion">YouTube</a></p>
+<p><a href="https://www.facebook.com/SibeeshVenu">Facebook</a></p>
+<p><a href="https://instagram.com/sibeeshvenu" target="_blank" rel="noopener noreferrer">Instagram</a></p>
+<p><a href="https://www.quora.com/profile/Sibeesh-Venu">Quora</a></p>
+<p><a href="https://www.pinterest.com/SibeeshVenu/">Pinterest</a></p>
+<p><a href="https://about.me/SibeeshVenu">About Me</a></p>
 </div>
 
 <div class="col-md-4">
@@ -36,15 +45,6 @@ comments: true
 <p>
 <a target="_blank" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" class="btn btn-danger">Facebook Page</a>
 </p> 
-<h5>Follow Me</h5>
-<p><a href="https://twitter.com/SibeeshVenu" target="_blank" rel="noopener noreferrer">Twitter</a></p>
-<p><a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a></p>
-<p><a href="https://www.youtube.com/SibeeshPassion">YouTube</a></p>
-<p><a href="https://www.facebook.com/SibeeshVenu">Facebook</a></p>
-<p><a href="https://instagram.com/sibeeshvenu" target="_blank" rel="noopener noreferrer">Instagram</a></p>
-<p><a href="https://www.quora.com/profile/Sibeesh-Venu">Quora</a></p>
-<p><a href="https://www.pinterest.com/SibeeshVenu/">Pinterest</a></p>
-<p><a href="https://about.me/SibeeshVenu">About Me</a></p>
 </div>
 </div>
 </div>
