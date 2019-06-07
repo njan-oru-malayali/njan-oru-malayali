@@ -10,7 +10,7 @@ comments: true
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 <h5>Follow Me</h5>
-<div class="collapse navbar-collapse" id="navbarMediumish">
+<div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a target="_blank" class="nav-link" href="https://www.facebook.com/SibeeshVenu"><i
