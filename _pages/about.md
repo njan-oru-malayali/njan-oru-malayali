@@ -10,34 +10,35 @@ comments: true
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 <h5>Follow Me</h5>
- <a target="_blank" href="https://www.facebook.com/SibeeshVenu"><i
-                                class="fas fa-link fa-3x"></i></a>
-<a target="_blank" href="https://www.linkedin.com/in/SibeeshVenu"><i
+ <a target="_blank" data-title="Facebook" href="https://www.facebook.com/SibeeshVenu"><i
+                                class="fas fa-facebook fa-3x"></i></a>
+<a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fab fa-linkedin fa-3x"></i></a>
-<a target="_blank" href="https://www.youtube.com/SibeeshPassion"><i
+<a target="_blank" data-title="YouTube - Sibeesh Passion" href="https://www.youtube.com/SibeeshPassion"><i
                                 class="fab fa-youtube fa-3x"></i>
                             </a>
-<a target="_blank" href="https://www.instagram.com/sibeeshvenu/"><i
+<a target="_blank" data-title="Instagram" href="https://www.instagram.com/sibeeshvenu/"><i
                                 class="fab fa-instagram fa-3x"></i>
                             </a>
-<a target="_blank" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
+<a target="_blank" data-title="YouTube - Njan Oru Malayali" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
                                 class="fab fa-youtube fa-3x"></i></a>
+                                <p>
+<a target="_blank" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" class="btn btn-danger">Our Facebook Group</a>
+</p> 
+<p>
+<a target="_blank" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" class="btn btn-danger">Our Facebook Page</a>
+</p> 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Social Media</h5>
+<h5>Me</h5>
 <p>Thank you for your support!</p>
 <p>
-<a target="_blank" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw/" class="btn btn-danger">YouTube Channel</a>
+<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.jpg" alt="Sibeesh Venu">
 </p> 
-<p>
-<a target="_blank" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" class="btn btn-danger">Facebook Group</a>
-</p> 
-<p>
-<a target="_blank" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" class="btn btn-danger">Facebook Page</a>
-</p> 
+
 </div>
 </div>
 </div>
