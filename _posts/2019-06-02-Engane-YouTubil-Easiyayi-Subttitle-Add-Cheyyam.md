@@ -8,7 +8,7 @@ image: assets/images/Engane YouTubil Easiyayi Subttitle Add Cheyyam.jpg
 description: "In this Video, we will see how we can easily add subtitles to our YouTube videos."
 featured: false
 hidden: false
-rating: 3.9
+rating: 4.5
 ---
 
 In this Video, we will see how we can easily add subtitles to our YouTube videos.
