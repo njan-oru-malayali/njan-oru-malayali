@@ -10,33 +10,18 @@ comments: true
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 <h5>Follow Me</h5>
-<div class="collapse navbar-collapse">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.facebook.com/SibeeshVenu"><i
+ <a target="_blank" href="https://www.facebook.com/SibeeshVenu"><i
                                 class="fas fa-link"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.linkedin.com/in/SibeeshVenu"><i
+<a target="_blank" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fas fa-linkedin"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.youtube.com/SibeeshPassion"><i
+<a target="_blank" href="https://www.youtube.com/SibeeshPassion"><i
                                 class="fab fa-youtube"></i>
                             </a>
-                    </li>
-                    <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.instagram.com/sibeeshvenu/"><i
+<a target="_blank" href="https://www.instagram.com/sibeeshvenu/"><i
                                 class="fab fa-instagram"></i>
                             </a>
-                    </li>
-                    <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
+<a target="_blank" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
                                 class="fab fa-youtube"></i></a>
-                    </li>
-                    {% include search-lunr.html %}
-                </ul>
-            </div>
 </div>
 
 <div class="col-md-4">
