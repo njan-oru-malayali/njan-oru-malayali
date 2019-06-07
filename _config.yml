@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  sibeeshvenu:
     name: Sibeesh Venu
     display_name: Sibeesh Venu
     gravatar: 429e95a0b9138c685c91a24b9802af02
     email: sibeesh.venu@gmail.com
     web: https://sibeeshpassion.com
     twitter: https://twitter.com/sibeeshvenu
-    description: "I am Sibeesh Venu, an engineer by profession and writer by passion. Blogger, YouTuber, Photographer. I’m neither an expert nor a guru. I have been awarded Microsoft MVP 3 times, C# Corner MVP 5 times, DZone MVB. "
+    description: "I am Sibeesh Venu, an engineer by profession and writer by passion. Blogger, YouTuber, Photographer, Microsoft MVP"
 
 # Plugins
 plugins:
