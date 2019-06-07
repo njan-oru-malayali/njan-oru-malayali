@@ -9,26 +9,34 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
-<h5>My Websites</h5>
-<p>
-<a href="https://sibeeshpassion.com/" target="_blank" data-title="Sibeesh Passion">Sibeesh Passion</a>
-</p>
-<p>
-<a href="https://sibeeshvenu.com/" target="_blank" data-title="Sibeesh Venu">Sibeesh Venu</a>
-</p>
-<h5>My Other YouTube Channel</h5>
-<p>
-<a href="https://www.youtube.com/SibeeshPassion" target="_blank" data-title="Sibeesh Passion">Sibeesh Passion</a>
-</p>
 <h5>Follow Me</h5>
-<p><a href="https://twitter.com/SibeeshVenu" target="_blank" rel="noopener noreferrer">Twitter</a></p>
-<p><a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a></p>
-<p><a href="https://www.youtube.com/SibeeshPassion">YouTube</a></p>
-<p><a href="https://www.facebook.com/SibeeshVenu">Facebook</a></p>
-<p><a href="https://instagram.com/sibeeshvenu" target="_blank" rel="noopener noreferrer">Instagram</a></p>
-<p><a href="https://www.quora.com/profile/Sibeesh-Venu">Quora</a></p>
-<p><a href="https://www.pinterest.com/SibeeshVenu/">Pinterest</a></p>
-<p><a href="https://about.me/SibeeshVenu">About Me</a></p>
+<div class="collapse navbar-collapse" id="navbarMediumish">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://www.facebook.com/SibeeshVenu"><i
+                                class="fas fa-link"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://www.linkedin.com/in/SibeeshVenu"><i
+                                class="fas fa-linkedin"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://www.youtube.com/SibeeshPassion"><i
+                                class="fab fa-youtube"></i>
+                            </a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://www.instagram.com/sibeeshvenu/"><i
+                                class="fab fa-instagram"></i>
+                            </a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
+                                class="fab fa-youtube"></i></a>
+                    </li>
+                    {% include search-lunr.html %}
+                </ul>
+            </div>
 </div>
 
 <div class="col-md-4">
