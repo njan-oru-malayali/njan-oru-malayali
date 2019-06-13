@@ -28,6 +28,13 @@ comments: true
 </p> 
 <p>
 <a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" >Our Facebook Page</a>
+</p>
+<p>
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCp7NT9SE3grCOsbPUl0PWvw" data-layout="full" data-count="default"></div>
+</p> 
+<p>
+<div class="g-ytsubscribe" data-channelid="UCMER3GqXUCGYc1Azbw9NP6Q" data-layout="full" data-count="default"></div>
 </p> 
 </div>
 
