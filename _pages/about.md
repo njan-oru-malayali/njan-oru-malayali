@@ -44,7 +44,7 @@ comments: true
 <h5>Me</h5>
 <p>Thank you for your support!</p>
 <p>
-<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.jpg" alt="Sibeesh Venu">
+<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.webp" alt="Sibeesh Venu">
 </p> 
 
 </div>
