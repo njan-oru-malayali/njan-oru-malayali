@@ -6,7 +6,7 @@ categories: [ Germany, Travel, Villages in Germany]
 tags: [Overview of a Beautiful Village in Germany - Malayalam, ഓവർവ്യൂ ഓഫ് എ വില്ലേജ്  ഇൻ ജർമ്മനി, ജർമൻ വില്ലേജ് ഓവർവ്യൂ, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany, Beautiful Village, All about Germany]
 image: assets/images/Overview-of-a-Beautiful-Village-in-Germany.webp
 description: "In this Video, we will talk about a beautiful village in Germany."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---
