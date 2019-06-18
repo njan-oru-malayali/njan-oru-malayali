@@ -4,7 +4,7 @@ title:  "Pforzemer Mess 10 Days Colorful Event in Germany"
 author: sibeeshvenu
 categories: [ Germany, Travel, Tips, Events ]
 tags: [Ezn River, Pforzheim, Celebrating Life, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
-image: assets/images/River-Long-Shot.webp.webp
+image: assets/images/River-Long-Shot.webp
 description: "Pforzemer Mess is a 10 days event in Pforzheim, Germany. It is an amazing event where people from different cities will gather together in Pforzheim."
 featured: true
 hidden: false
