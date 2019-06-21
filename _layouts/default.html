@@ -121,20 +121,24 @@
 
             <!-- Site Title
 ================================================== -->
-            <div class="row">
-                <!-- <h1 class="sitetitle">{{ site.name }}</h1> -->
+            <!-- <div class="row">
+                <h1 class="sitetitle">{{ site.name }}</h1>
                 <div class="col-md-auto ">
-                    <!-- Begin Logo -->
                     <a class="navbar-brand" href="{{ site.baseurl }}/">
                         <img src="{{ site.baseurl }}/{{ site.secondlogo }}" alt="{{ site.name }}">
                     </a>
-                    <!-- End Logo -->
                 </div>
                 <div class="col-md-auto">
                     <p class="lead">
                         {{ site.description }}
                     </p>
                 </div>
+            </div> -->
+            <div class="mainheading">
+                <h1 class="sitetitle">{{ site.name }}</h1>
+                <p class="lead">
+                    {{ site.description }}
+                </p>
             </div>
 
             <!-- Content
