@@ -10,7 +10,7 @@ disqus: 'sibeeshvenu'
 mailchimp-list: 'SibeeshPassion'
 include: ["_pages"]
 permalink: /:title/
-secondlogo: 'assets/images/Najn_Oru_Malayali_Website_Logo.png'
+secondlogo: 'assets/images/Najn_Oru_Malayali_Second_Logo.png'
 
 # Authors
 authors:
