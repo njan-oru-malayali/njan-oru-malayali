@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
 
     <title>{{ page.title }} | {{site.name}}</title>
 
@@ -88,8 +88,7 @@
                             Sibeesh Passion</a>
                     </li>
                     <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://sibeeshvenu.com/"><i
-                                class="fas fa-link"></i>
+                        <a target="_blank" class="nav-link" href="https://sibeeshvenu.com/"><i class="fas fa-link"></i>
                             Sibeesh Venu</a>
                     </li>
                     <li class="nav-item">
@@ -98,7 +97,8 @@
                             Sibeesh Passion</a>
                     </li>
                     <li class="nav-item">
-                        <a target="_blank" class="nav-link" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
+                        <a target="_blank" class="nav-link"
+                            href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
                                 class="fab fa-youtube"></i>
                             Njan Oru Malayali</a>
                     </li>
@@ -122,7 +122,12 @@
             <!-- Site Title
 ================================================== -->
             <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
+                <!-- <h1 class="sitetitle">{{ site.name }}</h1> -->
+                <!-- Begin Logo -->
+                <a class="navbar-brand" href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/{{ site.secondlogo }}" alt="{{ site.name }}">
+                </a>
+                <!-- End Logo -->
                 <p class="lead">
                     {{ site.description }}
                 </p>
@@ -140,7 +145,8 @@
             <div class="alertbar">
                 <div class="container text-center">
                     <span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a
-                        <b>story</b> from us, subscribe to our YouTube channel <a href="https://bit.ly/2wvG8eZ" target="_blank">here</a></span>
+                        <b>story</b> from us, subscribe to our YouTube channel <a href="https://bit.ly/2wvG8eZ"
+                            target="_blank">here</a></span>
                 </div>
             </div>
             {% endif %}

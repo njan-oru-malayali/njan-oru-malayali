@@ -2,14 +2,15 @@
 name: "Njan Oru Malayali"
 title: "ഞാൻ ഒരു മലയാളി"
 description: "I am Sibeesh Venu, an Engineer by profession and writer by passion. My hobbies are blogging and photography. The motive of this website and YouTube channel is, to share the review of the places I visit. Your support is really appreciated, please click here (https://bit.ly/2wvG8eZ) to subscribe our YouTube channel"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo2.png'
+logo: 'assets/images/Najn_Oru_Malayali_Website_Logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: 'https://njan-oru-malayali.com'
 google_analytics: 'UA-57404398-3'
 disqus: 'sibeeshvenu'
 mailchimp-list: 'SibeeshPassion'
 include: ["_pages"]
 permalink: /:title/
+secondlogo: 'assets/images/Najn_Oru_Malayali_Website_Logo.png'
 
 # Authors
 authors:
