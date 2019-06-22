@@ -7,7 +7,9 @@ comments: true
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-
+<p>
+<img class="shadow-lg" src="/assets/images/Najn_Oru_Malayali.png" alt="Sibeesh Venu">
+</p>
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 <h5>Follow Me</h5>
  <a target="_blank" data-title="Facebook" href="https://www.facebook.com/SibeeshVenu"><i
@@ -33,9 +35,6 @@ comments: true
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80"> 
-<p>
-<img class="shadow-lg" src="/assets/images/Najn_Oru_Malayali_Second_Logo.png" alt="Sibeesh Venu">
-</p>
 <p>
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channelid="UCp7NT9SE3grCOsbPUl0PWvw" data-layout="full" data-count="default"></div>
