@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <p>
-<img class="shadow-lg" src="/assets/images/Najn_Oru_Malayali.png" alt="Sibeesh Venu">
+<img src="/assets/images/Najn_Oru_Malayali.png" alt="Njan Oru Malayali">
 </p>
 <p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
 <h5>Follow Me</h5>
