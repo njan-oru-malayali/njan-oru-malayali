@@ -24,17 +24,16 @@ comments: true
                                 class="fab fa-youtube fa-3x"></i></a>
 <a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fab fa-linkedin fa-3x"></i></a>
+</div>
+<div class="col-md-4">
+<div class="sticky-top sticky-top-80">
+<h5>Support Us</h5>
                                  <p>
-                                <h5>Support Us</h5>
 <a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
 </p> 
 <p>
 <a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" >Our Facebook Page</a>
 </p>
-</div>
-
-<div class="col-md-4">
-<div class="sticky-top sticky-top-80"> 
 <p>
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channelid="UCp7NT9SE3grCOsbPUl0PWvw" data-layout="full" data-count="default"></div>
