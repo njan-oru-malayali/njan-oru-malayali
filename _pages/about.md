@@ -23,7 +23,16 @@ comments: true
 <a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fab fa-linkedin fa-3x"></i></a>
                                 <br />
-                                <p>
+                                <h5>Me</h5>
+<p>Thank you for your support!</p>
+<p>
+<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.webp" alt="Sibeesh Venu">
+</p>                              
+</div>
+
+<div class="col-md-4">
+<div class="sticky-top sticky-top-80"> 
+  <p>
 <a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
 </p> 
 <p>
@@ -36,17 +45,6 @@ comments: true
 <p>
 <div class="g-ytsubscribe" data-channelid="UCMER3GqXUCGYc1Azbw9NP6Q" data-layout="full" data-count="default"></div>
 </p> 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Me</h5>
-<p>Thank you for your support!</p>
-<p>
-<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.webp" alt="Sibeesh Venu">
-</p> 
-
 </div>
 </div>
 </div>
