@@ -22,24 +22,20 @@ comments: true
                                 class="fab fa-youtube fa-3x"></i></a>
 <a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fab fa-linkedin fa-3x"></i></a>
-                                <br />
-                                <h5>Me</h5>
-<p>Thank you for your support!</p>
+                                <br /> 
+                                <h5>Support Us</h5>
+                                 <p>
+<a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
+</p> 
 <p>
-<img class="shadow-lg" src="/assets/images/Sibeesh-Venu-Microsoft-MVP.webp" alt="Sibeesh Venu">
-</p>                              
+<a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" >Our Facebook Page</a>
+</p>
 </div>
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80"> 
 <p>
 <img class="shadow-lg" src="/assets/images/Najn_Oru_Malayali_Second_Logo.png" alt="Sibeesh Venu">
-</p>
-  <p>
-<a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
-</p> 
-<p>
-<a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" >Our Facebook Page</a>
 </p>
 <p>
 <script src="https://apis.google.com/js/platform.js"></script>
