@@ -22,9 +22,8 @@ comments: true
                                 class="fab fa-youtube fa-3x"></i></a>
 <a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
                                 class="fab fa-linkedin fa-3x"></i></a>
-                                <br /> 
-                                <h5>Support Us</h5>
                                  <p>
+                                <h5>Support Us</h5>
 <a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
 </p> 
 <p>
