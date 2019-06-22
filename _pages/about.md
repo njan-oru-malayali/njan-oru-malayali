@@ -32,6 +32,9 @@ comments: true
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80"> 
+<p>
+<img class="shadow-lg" src="/assets/images/Najn_Oru_Malayali_Second_Logo.png" alt="Sibeesh Venu">
+</p>
   <p>
 <a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
 </p> 
