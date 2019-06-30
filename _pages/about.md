@@ -10,7 +10,7 @@ comments: true
 <p>
 <img src="/assets/images/Najn_Oru_Malayali.png" alt="Njan Oru Malayali">
 </p>
-<p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://bit.ly/2wvG8eZ"> our YouTube Channel</a> </p>
+<p>Njan Oru Malayali is a community and you are welcome to join. Please do subscribe to <a href="https://www.youtube.com/NjanOruMalayali"> our YouTube Channel</a> </p>
 </div>
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
