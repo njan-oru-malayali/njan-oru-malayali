@@ -16,10 +16,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Support Us</h5>
                                  <p>
-<a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayaliya/" >Our Facebook Group</a>
+<a target="_blank" data-title="Facebook Group - Njan Oru Malayali" href="https://www.facebook.com/groups/Njan.Oru.Malayali.Aanu/" >Our Facebook Group</a>
 </p> 
 <p>
-<a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayaliyanu/" >Our Facebook Page</a>
+<a target="_blank" data-title="Facebook Page - Njan Oru Malayali" href="https://www.facebook.com/Njan.Oru.Malayali.Aanu/" >Our Facebook Page</a>
 </p>
 <p>
 <script src="https://apis.google.com/js/platform.js"></script>
