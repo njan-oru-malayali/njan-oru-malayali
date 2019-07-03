@@ -12,7 +12,7 @@ rating: 4.5
 ---
 
 <p>
-<img class="shadow-lg" src="/assets/images/images/Beautiful-Evening-Sky.webp" alt="A beautiful evenign sky">
+<img class="shadow-lg" src="/assets/images/Beautiful-Evening-Sky.webp" alt="A beautiful evenign sky">
 </p> 
 
 Location: Birkenfeld, Germany
