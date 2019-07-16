@@ -6,7 +6,7 @@ categories: [ Germany, Food Festival in Germany]
 tags: [Food Festival, Street food festival in Germany, Strassen fest, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/An-Amazing-Street-Food-Festival-in-Germany.webp
 description: "In this video, we will see an amazing event called Strassenfest, which is happening at Birkenfeld, Germany. This is event is all about uniting people, have food and drinks together. I hope you will like this video."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---

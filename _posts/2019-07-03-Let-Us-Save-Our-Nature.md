@@ -6,7 +6,7 @@ categories: [ Nature, Story ]
 tags: [Nature, Story, Awareness]
 image: assets/images/Beautiful-Evening-Sky.webp
 description: "ഇന്ന് ഒരുപാടു വർക്ക് ഉണ്ടായിരുന്നു. ഒരു വിധേന ജോലിയെല്ലാം തീർത്തു, സാധനങ്ങൾ വാങ്ങി വീട്ടിൽ തിരിച്ചെത്തിയപ്പോഴേക്കും ഒരുപാടു വൈകിയിരുന്നു. പോരാത്തതിന് നല്ല വിശപ്പും. അടുക്കളയിൽ ഉള്ള കാലത്തു വെച്ച ചോറും കടല കറിയും കഴിക്കുമ്പോൾ, ഞാൻ ആലോചിച്ചു, ഇതിനു ഉച്ചക്ക് ഇത്ര ടേസ്റ്റ് ഉണ്ടായിരുന്നില്ലല്ലോ എന്ന്."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---

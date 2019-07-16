@@ -6,7 +6,7 @@ categories: [ Germany, Travel, Tips, Timepass ]
 tags: [Ezn River, Pforzheim, Celebrating Life, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/River-Long-Shot.webp
 description: "ഇന്ന് വർക്ക് കഴിഞ്ഞു കുറച്ചു നടക്കാൻ ഇറങ്ങി. ഇന്നും പോയത് ഇഷ്ടപെട്ട നദിയായ എൻസിന്റെ തീരങ്ങളിലൂടെയാണ്. എന്തെന്നറിയില്ല, ഒരുപാടു ഇഷ്ടമാണ് അവളെ."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---

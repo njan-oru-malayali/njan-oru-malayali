@@ -6,7 +6,7 @@ categories: [ Germany, Grocery Expense in Germany]
 tags: [Grocery, Grocery Expense in Germany, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/Grocery-Expenses-in-Germany.webp
 description: "In this video, I will walk through the Grocery expenses in Germany. After watching this video you should be able to understand the rates of the grocery items. I hope you will like this video."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---
