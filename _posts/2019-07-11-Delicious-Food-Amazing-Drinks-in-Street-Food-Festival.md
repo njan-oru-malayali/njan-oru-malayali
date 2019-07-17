@@ -6,7 +6,7 @@ categories: [ Germany, Street Food Fest in Germany]
 tags: [Strassenfest, Birkenfeld, Street Fest in Germany, German Village, Germany Village Food, Street Food Fest in Germany, Public Grilling, White Pig Grill, Sausage with Bread, Malayalam,  Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/Delicious-Food-and-Amazing-Drinks-in-a-Street-Food-Festival-in-Germany.webp
 description: "In this video, We will try out an amazing food at Strassenfest or streetfest event in Birkenfeld, Germany. The food and drinks are delicious, you can get many varieties of foods in this event. I hope you will like this video."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---
