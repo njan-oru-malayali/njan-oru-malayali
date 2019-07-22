@@ -6,7 +6,7 @@ categories: [ Germany, France Hotel]
 tags: [Strasbourg, Hotel Stay, France Hotel, Alsace, France, Historical City in France, History France, Beautiful Nature, Malayalam, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany, Malayali in France]
 image: assets/images/Strasbourg-France-Hotel-Stay.webp
 description: "In this video, We are going to see the Hotel I stayed when I visited Strasbourg, France. I hope you will like this video."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---
