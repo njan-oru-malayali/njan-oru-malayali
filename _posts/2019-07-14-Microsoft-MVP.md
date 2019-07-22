@@ -6,7 +6,7 @@ categories: [ Germany, Microsoft MVP Award]
 tags: [MVP, Microsoft, Most Valuable Professional, MVP Award, Software Professional, Career Advice, Programming, Community, Hard Work, sibeeshpassion.com, sibeeshvenu.com, Malayalam, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Malayali, Mallu, I am a Mallu, MVP Award Unboxing]
 image: assets/images/Microsoft-MVP.webp
 description: "I have recently got my 4th Microsoft MVP award from Microsoft and this time it is a duel award in both Microsoft Azure and Developer Technologies. This is going to be an unboxing video of my MVP award. I hope you will like this video."
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 ---
