@@ -14,3 +14,4 @@ rating: 4.5
 A thumbnail has a tremendous impact on your video and that drives the user to your video. In this video we will see how you can create an efficient and creative thumbnail for our video. I hope you will like this video, please share me your feedback and thoughts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sfr1I8SV29A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
