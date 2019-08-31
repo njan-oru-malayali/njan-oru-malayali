@@ -16,6 +16,5 @@ Finding the right keywords for your YouTube video is always a challenging job. T
 
 
 
-We will see that event in this video. Please subscribe to our channel. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdipAmvxRRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
