@@ -32,17 +32,17 @@ comments: true
 
 <h5>Follow Me</h5>
  <a target="_blank" data-title="Facebook" href="https://www.facebook.com/SibeeshVenu"><i
-                                class="fab fa-facebook fa"></i></a>
+                                class="fab fa-facebook"></i></a>
 <a target="_blank" data-title="YouTube - Sibeesh Passion" href="https://www.youtube.com/SibeeshPassion"><i
-                                class="fab fa-youtube fa"></i>
+                                class="fab fa-youtube"></i>
                             </a>
 <a target="_blank" data-title="Instagram" href="https://www.instagram.com/sibeeshvenu/"><i
-                                class="fab fa-instagram fa"></i>
+                                class="fab fa-instagram"></i>
                             </a>
 <a target="_blank" data-title="YouTube - Njan Oru Malayali" href="https://www.youtube.com/channel/UCp7NT9SE3grCOsbPUl0PWvw"><i
-                                class="fab fa-youtube fa"></i></a>
+                                class="fab fa-youtube"></i></a>
 <a target="_blank" data-title="LinkedIn" href="https://www.linkedin.com/in/SibeeshVenu"><i
-                                class="fab fa-linkedin fa"></i></a>
+                                class="fab fa-linkedin"></i></a>
                                 </p>
 </div>
 </div>
