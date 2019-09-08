@@ -6,7 +6,7 @@ categories: [ Germany, German office]
 tags: [Offices in Germany, German Company, Office Interior Design, ഒരു ജർമൻ കമ്പനിയുടെ വിശകലനം, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/An-Overview-of-a-German-Company.webp
 description: "In this video, I will walk through the interior design aspects of a German company. Some things are different here. I hope you will like this video."
-featured: false
+featured: true
 hidden: false
 rating: 4.5
 ---
