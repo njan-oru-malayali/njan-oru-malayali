@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "കടൽ കടന്നു അമേരിക്കയിൽ നിന്നൊരു അവാർഡ് - Microsoft MVP"
+title:  "Microsoft MVP Award"
 author: sibeeshvenu
 categories: [ Germany, Microsoft MVP Award]
-tags: [MVP, Microsoft, Most Valuable Professional, MVP Award, Software Professional, Career Advice, Programming, Community, Hard Work, sibeeshpassion.com, sibeeshvenu.com, Malayalam, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Malayali, Mallu, I am a Mallu, MVP Award Unboxing]
+tags: [MVP, Microsoft, Most Valuable Professional, MVP Award, Software Professional, Career Advice, Programming, Community, Hard Work, sibeeshpassion.com, sibeeshvenu.com, Malayalam, Sibeesh Passion, Njan Oru Malayali,  Malayali, Mallu, I am a Mallu, MVP Award Unboxing]
 image: assets/images/Microsoft-MVP.webp
 description: "I have recently got my 4th Microsoft MVP award from Microsoft and this time it is a duel award in both Microsoft Azure and Developer Technologies. This is going to be an unboxing video of my MVP award. I hope you will like this video."
 featured: false

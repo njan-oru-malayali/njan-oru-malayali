@@ -3,7 +3,7 @@ layout: post
 title:  "An Amazing Easy Turkish Food in Germany"
 author: sibeeshvenu
 categories: [ Germany, Travel, Tips, Events, Food ]
-tags: [Foodie, Food, Turkish Food, Donner, Doner, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
+tags: [Foodie, Food, Turkish Food, Donner, Doner, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali,  Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/An-Amazing-Easy-Turkish-Food-in-Germany.webp
 description: "In this video we are going to see about an amazing Turkish easy food in Germany, the dish name is called Doner."
 featured: false

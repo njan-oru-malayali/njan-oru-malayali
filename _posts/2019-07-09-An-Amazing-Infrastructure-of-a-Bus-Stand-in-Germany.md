@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "ജർമനിയിലെ ഒരു അടിപൊളി ബസ് സ്റ്റാൻഡ് - An Amazing Infrastructure of a Bus Stand in Germany"
+title:  "An Amazing Infrastructure of a Bus Stand in Germany"
 author: sibeeshvenu
 categories: [ Germany, Bus Stand Infrastructure in Germany]
-tags: [hauptbahnhof, Pforzheim hauptbahnhof, Train Stations in Germany, Bus stand in Germany, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali, ഞാൻ ഒരു മലയാളി, Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
+tags: [hauptbahnhof, Pforzheim hauptbahnhof, Train Stations in Germany, Bus stand in Germany, Life at Germany, Life in Germany, Sibeesh Passion, Njan Oru Malayali,  Germaniyile Nalukal, Germany, Malayali in Germany, Indians in Germany, Keralite in Germany, Malayalees in Germany]
 image: assets/images/An-Amazing-Infrastructure-of-a-Bus-Stand-in-Germany.webp
 description: "In this video, we will see an amazing bust stand in Germany. I really liked the curved design of this bus stand. This place is called as hauptbahnhof. I hope you will like this video."
 featured: false
