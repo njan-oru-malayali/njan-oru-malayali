@@ -11,6 +11,6 @@ hidden: false
 rating: 4.5
 ---
 
-In this video, We are going to see a video about my Segway ride I did with my Team at Alsace, France. I hope you will like this video.
+In this video, We are going to see about my Segway ride I did with my Team at Alsace, France. I hope you will like this video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VEvLRs2qek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
