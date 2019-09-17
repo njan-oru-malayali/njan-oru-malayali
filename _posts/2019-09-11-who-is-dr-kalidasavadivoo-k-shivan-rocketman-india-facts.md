@@ -4,7 +4,7 @@ title:  "Who is Dr. K Shivan, Rocket Man of India? "
 author: sibeeshvenu
 categories: [People, Motivation]
 tags: [Njan Oru Malayali, Chandrayan, Chadrayan 2]
-image: assets/images/Introduction-Tumbnail.webp
+image: assets/images/Najn_Oru_Malayali.png
 description: "In this post, we will see who is Dr. K Shivan, or Rocket Man of India. We will also explain the key facts about him. I hope you will like this, please share and support"
 featured: false
 hidden: false
