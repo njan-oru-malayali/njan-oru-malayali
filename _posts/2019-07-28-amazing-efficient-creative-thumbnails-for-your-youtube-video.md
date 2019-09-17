@@ -3,7 +3,7 @@ layout: post
 title:  "Amazing Efficient Creative Thumbnails for Your Video"
 author: sibeeshvenu
 categories: [ Youtube tips]
-tags: [Youtube Tips, Youtube Thumbnails, Youtube, Easy Thumbnails, Amazing Thumbnails, Good Thumbnails, sibeeshpassion.com, sibeeshvenu.com, njan-oru-malayali.com]
+tags: [Youtube Tips, Youtube Thumbnails, Youtube, Easy Thumbnails, Amazing Thumbnails, Good Thumbnails, sibeeshpassion.com, sibeeshvenu.com, njanorumalayali.com]
 image: assets/images/Best-way-to-create-amazing-YouTube-video-thumbnails.webp
 description: "A thumbnail has a tremendous impact on your video and that drives the user to your video. In this video we will see how you can create an efficient and creative thumbnail for our video. I hope you will like this video, please share me your feedback and thoughts."
 featured: false

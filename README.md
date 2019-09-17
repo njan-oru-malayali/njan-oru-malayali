@@ -2,6 +2,6 @@
 
 [Please click here to Subscribe](https://bit.ly/2wvG8eZ)
 
-https://njan-oru-malayali.com/
+https://njanorumalayali.com/
 
 Thank you!
