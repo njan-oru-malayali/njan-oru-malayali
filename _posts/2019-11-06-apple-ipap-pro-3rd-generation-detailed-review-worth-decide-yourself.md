@@ -12,19 +12,25 @@ rating: 4.5
 ---
 
 Apple has finally launched their most powerful iPad ever, but is it worth to buy this device? Here in this video, I will help you to take the decision. This is a small unboxing video of iPad Pro 3rd generation and I will also be discussing about some key features and specifications. I hope you will like this video, please do not forget to share me your feedback and subscribe to our channel.  
+
 My channels:
-https://www.youtube.com/njanorumalayali
-https://www.youtube.com/sibeeshpassion
+
+<a href="https://www.youtube.com/njanorumalayali">Njan Oru Malayali YouTube</a>
+<a href="https://www.youtube.com/sibeeshpassion">Sibeesh Passion YouTube</a>
+
 You can always see our websites and blogs here.
-https://sibeeshpassion.com/
-https://njanorumalayali.com/
-https://sibeeshvenu.com/
+
+<a href="https://sibeeshpassion.com/">Sibeesh Passion Blog</a>
+<a href="https://njanorumalayali.com/">Njan Oru Malayali Blog</a>
+<a href="https://sibeeshvenu.com/">Sibeesh Venu Website</a>
+
 Please feel free to follow me in any Social Medias
-https://www.instagram.com/sibeeshvenu/
-https://www.instagram.com/njanoru.malayali/
-https://twitter.com/SibeeshVenu
-https://www.linkedin.com/in/SibeeshVenu
-https://www.facebook.com/SibeeshVenu
+
+<a href="https://www.instagram.com/sibeeshvenu/">Instagram</a>
+<a href="https://www.instagram.com/njanoru.malayali/">Instagram Njan Oru Malayali</a>
+<a href="https://twitter.com/SibeeshVenu">Twitter</a>
+<a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a>
+<a href="https://www.facebook.com/SibeeshVenu">Facebook</a>
 
 
-<iframe width="1129" height="635" src="https://www.youtube.com/embed/5cP-4tCIMjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1129" height="635" src="https://www.youtube.com/embed/BU0_9Q3oauI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
