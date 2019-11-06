@@ -14,23 +14,34 @@ rating: 4.5
 Apple has finally launched their most powerful iPad ever, but is it worth to buy this device? Here in this video, I will help you to take the decision. This is a small unboxing video of iPad Pro 3rd generation and I will also be discussing about some key features and specifications. I hope you will like this video, please do not forget to share me your feedback and subscribe to our channel.  
 
 My channels:
-
-<a href="https://www.youtube.com/njanorumalayali">Njan Oru Malayali YouTube</a>
+<br/>
+<a href="https://www.youtube.com/njanorumalayali">Njan Oru Malayali YouTube</a><br/>
+<br/>
 <a href="https://www.youtube.com/sibeeshpassion">Sibeesh Passion YouTube</a>
+<br/>
 
-You can always see our websites and blogs here.
+You can always see our websites and blogs here
+<br/>
 
 <a href="https://sibeeshpassion.com/">Sibeesh Passion Blog</a>
+<br/>
 <a href="https://njanorumalayali.com/">Njan Oru Malayali Blog</a>
+<br/>
 <a href="https://sibeeshvenu.com/">Sibeesh Venu Website</a>
+<br/>
 
 Please feel free to follow me in any Social Medias
+<br/>
 
 <a href="https://www.instagram.com/sibeeshvenu/">Instagram</a>
+<br/>
 <a href="https://www.instagram.com/njanoru.malayali/">Instagram Njan Oru Malayali</a>
+<br/>
 <a href="https://twitter.com/SibeeshVenu">Twitter</a>
+<br/>
 <a href="https://www.linkedin.com/in/SibeeshVenu">LinkedIn</a>
+<br/>
 <a href="https://www.facebook.com/SibeeshVenu">Facebook</a>
-
+<br/>
 
 <iframe width="1129" height="635" src="https://www.youtube.com/embed/BU0_9Q3oauI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
